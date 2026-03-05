@@ -1,0 +1,19 @@
+IMPORTANT: Add your resume PDF here
+
+1. Export your resume as a PDF file
+2. Rename it to "resume.pdf"
+3. Place it in this public/ directory
+4. Delete this instruction file
+
+The resume download button in your portfolio will link to /resume.pdf
+
+If you don't have a resume PDF ready, you can:
+- Create one using Google Docs, Word, or Canva
+- Use online resume builders like Resume.io or Novoresume
+- Design a custom one with Figma or Adobe InDesign
+
+Make sure your resume is:
+✓ Up to date with your latest experience
+✓ Formatted professionally
+✓ Optimized for ATS (Applicant Tracking Systems)
+✓ Under 2MB in file size
