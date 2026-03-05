@@ -9,7 +9,7 @@ import { BlogPost } from './pages/BlogPost';
 
 function App() {
   return (
-    <BrowserRouter basename="/Portfolio">
+    <BrowserRouter basename="/my-portfolio">
       <Layout>
         <Routes>
           <Route path="/" element={<Home />} />
