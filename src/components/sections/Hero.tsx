@@ -37,7 +37,8 @@ export const Hero = () => {
           </Link>
           <a
             href={personalInfo.resume}
-            download
+            target="_blank"
+            rel="noopener noreferrer"
             className="border border-accent dark:border-dark-accent text-accent dark:text-dark-accent px-6 py-3 rounded-lg hover:bg-accent dark:hover:bg-dark-accent hover:text-white active:bg-accent transition-all duration-200 font-medium inline-flex items-center justify-center gap-2 min-h-[44px]"
           >
             <svg

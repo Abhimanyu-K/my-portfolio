@@ -38,7 +38,7 @@ export const Button = ({
         className={baseStyles}
         target="_blank"
         rel="noopener noreferrer"
-        download={download}
+        {...(download && { download: true })}
       >
         {children}
       </a>

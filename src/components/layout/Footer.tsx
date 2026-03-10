@@ -108,7 +108,8 @@ export const Footer = () => {
               <Button
                 href={personalInfo.resume}
                 variant="secondary"
-                download
+                target="_blank"
+                rel="noopener noreferrer"
                 className="text-xs sm:text-sm min-h-[44px]"
               >
                 <svg

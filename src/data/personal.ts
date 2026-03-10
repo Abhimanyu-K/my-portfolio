@@ -9,7 +9,7 @@ export const personalInfo = {
   location: 'Bangalore, India',
   yearsOfExperience: 3,
   profileImage: '/assets/images/profile.jpg',
-  resume: '/resume.pdf',
+  resume: 'https://drive.google.com/file/d/1U3YmaKLvt-iVs20sYIa59D1g9dUE76mR/view?usp=sharing',
 };
 
 export const socialLinks: SocialLink[] = [
